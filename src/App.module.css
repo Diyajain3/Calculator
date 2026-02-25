@@ -1,0 +1,12 @@
+.calculator{
+  border: 1px solid rgb(95, 113, 175);
+  width: 200px;
+  border-radius: 7px;
+  text-align: center;
+  background-color: rgb(120, 145, 167);
+ 
+  justify-self: center;
+}
+
+
+
